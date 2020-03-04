@@ -1,6 +1,6 @@
 # @guardian/jest-to-be-hint
 
-    import { toBeHint } 'jest-to-be-hint';
+    import { toBeHint } from 'jest-to-be-hint';
     expect.extend({ toBeHint });
 
     expect('foo').toBeHint('bar', 'bar was not foo');
