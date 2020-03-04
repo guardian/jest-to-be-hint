@@ -1,6 +1,6 @@
 {
   "name": "@guardian/jest-to-be-hint",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Jest extension to support custom failure messages",
   "author": "Nicolas Long <nicolas.long@theguardian.com>",
   "license": "MIT",
@@ -15,9 +15,9 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^24.9.0",
     "@types/jest": "^24.0.23",
     "@types/node": "^12.12.14",
+    "jest": "^24.9.0",
     "ts-jest": "^24.2.0",
     "typescript": "^3.7.2"
   }
